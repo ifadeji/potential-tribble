@@ -52,7 +52,7 @@ It also serves as a professional portfolio showcasing my skills in **Web2 & Web3
 
 ## 📬 Contact & Social Links  
 
-- **GitHub:** [github.com/ifadeji1](https://github.com/ifadeji)  
+- **GitHub:** [github.com/ifadeji](https://github.com/ifadeji)  
 - **Email:** info@futureayodejisolution.com  
 - **Twitter (X):** [@IfadejiI97197](https://twitter.com/IfadejiI97197)  
 - **Facebook:** [facebook.com/futureayodejisolution](https://facebook.com/futureayodejisolution)  
